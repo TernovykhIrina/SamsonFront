@@ -1,2 +1,2 @@
 import "../../../common.scss"
-import "./text.scss"
+import "./buttons.scss"

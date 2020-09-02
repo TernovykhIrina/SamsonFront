@@ -19,7 +19,7 @@ module.exports = {
     entry: {
         'form': './src/pages/components/form/form.js',
         'text': './src/pages/components/text/text.js',
-
+        'buttons': './src/pages/components/buttons/buttons.js'
     },
     output: {
         path: path.resolve(__dirname, 'docs'),

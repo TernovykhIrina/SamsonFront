@@ -11,20 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/src/pages/components/text/text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/components/text/text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/pugs/text.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/70/fb/de255f0339508af2b7ed31de73fc4371dabc67ea11297ff31633436ced8ac81f5d2261c0922a8adf3e90a06c449ef1e73645e4b385554e98219e12944d2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/7a/d3/e6ad39392622fa9e31f1559c5cf24be8201f321164b7505aa9619a867880b8a8dfee4c4500843e4cbe1458de4c380b603c99da9003ed2886bc55388ac759" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/77/f2/639687d8fe5568e55a65d084cf3c0d6042cf6dddf7b92c286aa66c7b6c97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/86/68/31cf800a60670e10d89dc16a496422d51a49da8c1aabc6fdd74e8eeb6343" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/components/buttons/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/components/buttons/buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pugs/buttons.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.780d99b243b7e275f6a4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.780d99b243b7e275f6a4.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.780d99b243b7e275f6a4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.780d99b243b7e275f6a4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/form/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/form/form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/components/form/form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/form/form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/form/headerLogOut.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/text/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/text/text.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599034122567</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="текст готов">
+      <created>1599072997142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599072997143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +166,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="added dist" />
     <MESSAGE value="added docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="added docs" />
+    <MESSAGE value="текст готов" />
+    <option name="LAST_COMMIT_MESSAGE" value="текст готов" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599007374061">
@@ -173,22 +178,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599067564281" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1599067009350">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1599076711655">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599067009350" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1599067009350">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599076711655" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1599076711654">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599067009350" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1599067009350">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599076711654" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1599076711653">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599067009350" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1599067009350">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599076711653" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1599076711655">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599067009350" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599076711655" />
     <state x="431" y="77" width="496" height="588" key="RollbackChangesDialog" timestamp="1599065435491">
       <screen x="0" y="0" width="1366" height="742" />
     </state>

@@ -1,2 +1,2 @@
 import "../../../common.scss"
-import "./form.scss";
+import "./form.scss"

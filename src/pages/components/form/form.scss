@@ -174,8 +174,10 @@ input:focus, textarea:focus, button:focus {
 }
 
 .form-additional textarea {
-  width: 302px;
-  height: 60px;
+  min-width: 302px;
+  max-width: 400px;
+  min-height: 60px;
+  max-height: 65px;
   font-family: Montserrat-Regular;
   color: black;
   font-size: 13px;
