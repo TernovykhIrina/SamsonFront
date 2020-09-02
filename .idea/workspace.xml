@@ -10,16 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/form.6c1b7587628ac034d498.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/form.6c1b7587628ac034d498.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/form.6c1b7587628ac034d498.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/form.6c1b7587628ac034d498.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/checkboxMarker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/pugs/form.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/form.pug" afterDir="false" />
-    </list>
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599007061741</updated>
       <workItem from="1599007065330" duration="1051000" />
-      <workItem from="1599031903032" duration="1296000" />
+      <workItem from="1599031903032" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1599007928771</created>
@@ -107,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599007928771</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added dist">
+      <created>1599033799491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599033799491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added docs">
+      <created>1599033995381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599033995381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,28 +132,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="added dist" />
+    <MESSAGE value="added docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added docs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599007374061">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.742@0.0.1366.742" timestamp="1599007374061" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1599008152485">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1599033977263">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599008152485" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1599008152485">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599033977263" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1599033977261">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599008152485" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1599008152485">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599033977261" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1599033977259">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599008152485" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1599008152485">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599033977259" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1599033977262">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599008152485" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599033977262" />
   </component>
 </project>
