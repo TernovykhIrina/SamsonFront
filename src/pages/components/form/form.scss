@@ -1,0 +1,274 @@
+/* сброс стилей браузера */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.container {
+  max-width: 766px;
+  height: 654px;
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  background: #dddce3;
+}
+
+.form-box-sheet-1 {
+  width: 650px;
+  height: 500px;
+  margin-top: 91px;
+  margin-right: 2px;
+  display: flex;
+  flex-flow: column;
+  background: #f5f5f6;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  z-index: 3;
+}
+
+.form-box-sheet-2 {
+  width: 646px;
+  height: 503px;
+  margin-top: 91px;
+  margin-right: 2px;
+  background: #f5f5f6;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  z-index: 2;
+}
+
+.form-box-sheet-3 {
+  width: 638px;
+  height: 505px;
+  margin-top: 91px;
+  margin-right: 2px;
+  background: #f5f5f6;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  z-index: 1;
+}
+
+.form-main {
+  height: 158px;
+  background: #f5f5f6;
+  display: flex;
+  flex-flow: column;
+}
+
+.form-additional {
+  height: 140px;
+  background: #fff7c0;
+}
+.form-footer {
+
+}
+.form-main {
+  display: flex;
+  flex-flow: column;
+}
+
+.form-main-head {
+  margin-top: 22px;
+  margin-left: 205px;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 18px;
+}
+
+.form-main .text-field-name {
+  display: flex;
+  align-items: center;
+  margin-top: 19px;
+  margin-left: 162px;
+}
+
+.form-main .text-field-name label {
+  margin-right: 12px;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+}
+
+.text-field-name input {
+  width: 300px;
+  height: 25px;
+  margin-right: 12px;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+}
+.text-field-color {
+  margin-top: 10px;
+  margin-left: 26px;
+}
+.text-field-color label{
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+}
+.text-field-color input {
+  width: 44px;
+  height: 25px;
+  margin-left: 7px;
+}
+
+.text-field-name :-moz-placeholder, .text-field-color :-moz-placeholder {
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.text-field-name ::-webkit-input-placeholder, .text-field-color ::-webkit-input-placeholder {
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.form-additional {
+  display: flex;
+  flex-flow: column;
+}
+
+.form-additional-head {
+  margin-top: 22px;
+  margin-left: 205px;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 18px;
+}
+
+.textarea-box {
+  display: flex;
+  margin-top: 13px;
+  margin-left: 96px;
+
+}
+
+.form-additional label {
+  margin-right: 12px;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+}
+
+.form-additional textarea {
+  width: 302px;
+  height: 60px;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+}
+
+.form-footer {
+  display: flex;
+  flex-flow: column;
+}
+
+.radio-box {
+  margin-top: 26px;
+  margin-left: 203px;
+}
+.radio input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+  margin: 10px 0 0 7px;
+}
+.radio-text {
+  position: relative;
+  padding: 0 0 0 20px;
+  cursor: pointer;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+
+}
+.radio-text:before {
+  content: '';
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 13px;
+  height: 13px;
+  border: 1px solid #CDD1DA;
+  border-radius: 50%;
+  background: #FFF;
+}
+.radio-text:after {
+  content: '';
+  position: absolute;
+  top: 7px;
+  left: 4px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #904b92;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.5);
+  opacity: 0;
+}
+.radio input:checked + .radio-text:after {
+  opacity: 1;
+}
+
+.checkbox {
+  margin-left: 203px;
+}
+
+.checkbox input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+  margin: 7px 0 0 20px;
+}
+.checkbox-text {
+  width: 230px;
+  position: relative;
+  padding: 0 0 0 20px;
+  cursor: pointer;
+  font-family: Montserrat-Regular;
+  color: black;
+  font-size: 13px;
+}
+
+.checkbox-text:before {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 13px;
+  height: 13px;
+  border-radius: 3px;
+  border: 1px solid #CDD1DA;
+  background: white;
+}
+
+.checkbox input:checked + .checkbox-text:before {
+  background: #fff7c0 url('../../../images/checkboxMarker.svg') 2px 0 no-repeat;
+}
+
+.form-footer button {
+  width: 280px;
+  height: 45px;
+  margin-top: 24px;
+  margin-left: 203px;
+  background: #886feb;
+  border: none;
+  border-radius: 5px;
+  font-family: Montserrat-Regular;
+  color: white;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+

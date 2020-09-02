@@ -1,0 +1,43 @@
+doctype html
+html(lang='en')
+    head
+        title Form
+    body
+        div.container
+            form.form-box-sheet-1
+                div.form-main
+                    span.form-main-head Основное
+                    div.text-field-name
+                        label Имя
+                        input( type='text' placeholder="по паспорту")
+                    div.text-field-color
+                        label Цвет вашего настроения
+                        input( type='text' placeholder="Email")
+                div.form-additional
+                    span.form-additional-head Дополнительное
+                    div.textarea-box
+                        label Комментарий
+                        textarea( placeholder="Напишите хоть что-нибудь. Если хотите, конечно.")
+                div.form-footer
+                    div.radio-box
+                        label(class='radio')
+                           input(type='radio')
+                           div.radio-text Ну а тут просто полежит радиобатон
+                    div.checkbox
+                        label(class='checkbox')
+                           input(type='checkbox')
+                           div.checkbox-text Соглашаюсь на всё, что бы Вы ни придумали и осознаю, что это может означать
+                                             a что угодно
+                    button Отправить все мои данные
+            div.form-box-sheet-2
+            div.form-box-sheet-3
+
+
+
+
+
+
+
+
+
+
