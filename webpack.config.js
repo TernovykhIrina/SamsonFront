@@ -18,6 +18,7 @@ module.exports = {
 
     entry: {
         'form': './src/pages/components/form/form.js',
+        'text': './src/pages/components/text/text.js',
 
     },
     output: {

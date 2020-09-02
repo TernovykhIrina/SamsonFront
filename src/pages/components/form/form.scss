@@ -63,9 +63,7 @@ time, mark, audio, video {
   height: 140px;
   background: #fff7c0;
 }
-.form-footer {
 
-}
 .form-main {
   display: flex;
   flex-flow: column;
@@ -110,15 +108,18 @@ input:focus, textarea:focus, button:focus {
   outline: 0;
   outline-offset: 0;
 }
+
 .text-field-color {
   margin-top: 14px;
   margin-left: 26px;
 }
+
 .text-field-color label{
   font-family: Montserrat-Regular;
   color: black;
   font-size: 13px;
 }
+
 .text-field-color input {
   width: 48px;
   height: 25px;
@@ -162,7 +163,6 @@ input:focus, textarea:focus, button:focus {
   display: flex;
   margin-top: 19px;
   margin-left: 96px;
-
 }
 
 .form-additional label {
@@ -194,6 +194,7 @@ textarea::-webkit-input-placeholder {
 textarea:-moz-placeholder {
   width: 200px;
 }
+
 .form-footer {
   display: flex;
   flex-flow: column;
@@ -203,12 +204,14 @@ textarea:-moz-placeholder {
   margin-top: 26px;
   margin-left: 203px;
 }
+
 .radio input {
   position: absolute;
   z-index: -1;
   opacity: 0;
   margin: 10px 0 0 7px;
 }
+
 .radio-text {
   position: relative;
   padding: 0 0 0 20px;
@@ -216,8 +219,8 @@ textarea:-moz-placeholder {
   font-family: Montserrat-Regular;
   color: black;
   font-size: 13px;
-
 }
+
 .radio-text:before {
   content: '';
   position: absolute;
@@ -229,6 +232,7 @@ textarea:-moz-placeholder {
   border-radius: 50%;
   background: #FFF;
 }
+
 .radio-text:after {
   content: '';
   position: absolute;
@@ -241,6 +245,7 @@ textarea:-moz-placeholder {
   box-shadow: inset 0 1px 1px rgba(0,0,0,.5);
   opacity: 0;
 }
+
 .radio input:checked + .radio-text:after {
   opacity: 1;
 }
@@ -255,6 +260,7 @@ textarea:-moz-placeholder {
   opacity: 0;
   margin: 7px 0 0 20px;
 }
+
 .checkbox-text {
   width: 250px;
   position: relative;
@@ -328,15 +334,14 @@ textarea:-moz-placeholder {
   width: 650px;
   height: 505px;
   margin-top: 15px;
-
 }
-.effect2
-{
+
+.effect2 {
   position: relative;
   z-index: 0;
 }
-.effect2:before, .effect2:after
-{
+
+.effect2:before, .effect2:after {
   z-index: -1;
   position: absolute;
   content: "";
@@ -355,8 +360,8 @@ textarea:-moz-placeholder {
   -ms-transform: rotate(-3deg);
   transform: rotate(-3deg);
 }
-.effect2:after
-{
+
+.effect2:after {
   -webkit-transform: rotate(3deg);
   -moz-transform: rotate(3deg);
   -o-transform: rotate(3deg);
@@ -372,9 +377,8 @@ textarea:-moz-placeholder {
   -moz-box-shadow:0 1px 2px rgba(0, 0, 0, 0.05);
   box-shadow:0 1px 2px rgba(0, 0, 0, 0.05);
 }
-.effect1:before, .effect1:after
 
-{
+.effect1:before, .effect1:after {
   content:"";
   position:absolute;
   z-index:-1;
