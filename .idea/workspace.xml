@@ -11,20 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f7/c9/b15944b73e5df661120766316ce23dbfd708d1e8fdce2453aecdbb9ca108eaad3005503558748171786044ea018d2dd98054b82ea748fdffe8b87477c81a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/1a/73/237cb61d940d4d71cf859065611b8fe6d7e5742f3b69444feb726389502e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/del.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/components/beauty/beauty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/pugs/beauty.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/34/33/4053a60efa0e7abcf82c6a7c64be6db7ad6fa81cb4ba2b6abfdad64b5ba79f6ee7161d9020b715927bc9e0c42d3e9b49dc05f1e48d3e8e444adf03a4963e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/37/df/053e5357e7b63ef52d4144f8e82c388155691eb661c8df633410f324125c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/OpenSans-Regular.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/components/buttons/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/buttons/buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +51,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/fonts" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/fonts" />
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/pages/pugs" />
     </key>
@@ -161,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599090645381</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="кнопки готовы полностью">
+      <created>1599142019396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599142019419</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +186,8 @@
     <MESSAGE value="added docs" />
     <MESSAGE value="текст готов" />
     <MESSAGE value="готовы кнопки (без картинок)" />
-    <option name="LAST_COMMIT_MESSAGE" value="готовы кнопки (без картинок)" />
+    <MESSAGE value="кнопки готовы полностью" />
+    <option name="LAST_COMMIT_MESSAGE" value="кнопки готовы полностью" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">

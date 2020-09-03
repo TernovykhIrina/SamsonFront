@@ -6,6 +6,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
+  speak: none;
 }
 
 @font-face {
@@ -18,6 +19,13 @@ time, mark, audio, video {
 @font-face {
   font-family: 'Montserrat-Bold';
   src: url('fonts/Montserrat-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open-Sans';
+  src: url('fonts/OpenSans-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

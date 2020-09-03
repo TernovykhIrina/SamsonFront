@@ -121,7 +121,6 @@ input {
   transition-timing-function: ease-in;
 }
 
-/* On */
 input:checked + .toy-toggle .border3 {
   background-position: 25% 0;
 }
