@@ -11,13 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/34/33/4053a60efa0e7abcf82c6a7c64be6db7ad6fa81cb4ba2b6abfdad64b5ba79f6ee7161d9020b715927bc9e0c42d3e9b49dc05f1e48d3e8e444adf03a4963e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/37/df/053e5357e7b63ef52d4144f8e82c388155691eb661c8df633410f324125c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slide-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slide-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slide-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slide-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pugs/slider.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/buttons/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/buttons/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,17 +53,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cinema-test" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/fonts" />
       <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src/fonts" />
       <recent name="$PROJECT_DIR$/src/pages/pugs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.build">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -97,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599142019419</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="дорабока кнопок (шрифты)">
+      <created>1599146085420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599146085420</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,36 +196,89 @@
     <MESSAGE value="текст готов" />
     <MESSAGE value="готовы кнопки (без картинок)" />
     <MESSAGE value="кнопки готовы полностью" />
-    <option name="LAST_COMMIT_MESSAGE" value="кнопки готовы полностью" />
+    <MESSAGE value="дорабока кнопок (шрифты)" />
+    <option name="LAST_COMMIT_MESSAGE" value="дорабока кнопок (шрифты)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.742@0.0.1366.742" timestamp="1599139656711" />
-    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl" timestamp="1599067564281">
+    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl" timestamp="1599158344925">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599067564281" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1599094673249">
+    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599158344925" />
+    <state width="1324" height="151" key="GridCell.Tab.0.bottom" timestamp="1599157650714">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599094673249" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1599094673247">
+    <state width="1324" height="151" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599157650714" />
+    <state width="1324" height="151" key="GridCell.Tab.0.center" timestamp="1599157650712">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599094673247" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1599094673246">
+    <state width="1324" height="151" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599157650712" />
+    <state width="1324" height="151" key="GridCell.Tab.0.left" timestamp="1599157650711">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599094673246" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1599094673248">
+    <state width="1324" height="151" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599157650711" />
+    <state width="1324" height="151" key="GridCell.Tab.0.right" timestamp="1599157650712">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599094673248" />
+    <state width="1324" height="151" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599157650712" />
+    <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.1.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599157145196" />
+    <state width="1324" height="221" key="GridCell.Tab.1.center" timestamp="1599157145196">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.1.center/0.0.1366.742@0.0.1366.742" timestamp="1599157145196" />
+    <state width="1324" height="221" key="GridCell.Tab.1.left" timestamp="1599157145195">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.1.left/0.0.1366.742@0.0.1366.742" timestamp="1599157145195" />
+    <state width="1324" height="221" key="GridCell.Tab.1.right" timestamp="1599157145196">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.1.right/0.0.1366.742@0.0.1366.742" timestamp="1599157145196" />
+    <state width="1324" height="221" key="GridCell.Tab.2.bottom" timestamp="1599157145198">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.2.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599157145198" />
+    <state width="1324" height="221" key="GridCell.Tab.2.center" timestamp="1599157145197">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.2.center/0.0.1366.742@0.0.1366.742" timestamp="1599157145197" />
+    <state width="1324" height="221" key="GridCell.Tab.2.left" timestamp="1599157145197">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.2.left/0.0.1366.742@0.0.1366.742" timestamp="1599157145197" />
+    <state width="1324" height="221" key="GridCell.Tab.2.right" timestamp="1599157145197">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.2.right/0.0.1366.742@0.0.1366.742" timestamp="1599157145197" />
+    <state width="1324" height="221" key="GridCell.Tab.3.bottom" timestamp="1599157145199">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.3.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599157145199" />
+    <state width="1324" height="221" key="GridCell.Tab.3.center" timestamp="1599157145199">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.3.center/0.0.1366.742@0.0.1366.742" timestamp="1599157145199" />
+    <state width="1324" height="221" key="GridCell.Tab.3.left" timestamp="1599157145198">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.3.left/0.0.1366.742@0.0.1366.742" timestamp="1599157145198" />
+    <state width="1324" height="221" key="GridCell.Tab.3.right" timestamp="1599157145199">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="221" key="GridCell.Tab.3.right/0.0.1366.742@0.0.1366.742" timestamp="1599157145199" />
     <state x="431" y="77" width="496" height="588" key="RollbackChangesDialog" timestamp="1599065435491">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="431" y="77" width="496" height="588" key="RollbackChangesDialog/0.0.1366.742@0.0.1366.742" timestamp="1599065435491" />
+    <state x="379" y="127" width="608" height="488" key="find.popup" timestamp="1599157226441">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="379" y="127" width="608" height="488" key="find.popup/0.0.1366.742@0.0.1366.742" timestamp="1599157226441" />
   </component>
 </project>

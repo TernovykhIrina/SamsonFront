@@ -21,6 +21,7 @@ module.exports = {
         'text': './src/pages/components/text/text.js',
         'buttons': './src/pages/components/buttons/buttons.js',
         'beauty': './src/pages/components/beauty/beauty.js',
+        'slider': './src/pages/components/slider/slider.js',
     },
     output: {
         path: path.resolve(__dirname, 'docs'),
