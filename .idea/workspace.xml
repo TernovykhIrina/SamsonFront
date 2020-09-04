@@ -10,7 +10,49 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs" />
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
+      <change afterPath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/1b0809d519837cb7aad36a73433f655c.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/beauty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/del.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/rectangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/slide-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/slide-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/slide-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/slide-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/text.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599246525813</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Добавлена главная страница">
+      <created>1599247220676</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1599247220676</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,22 +287,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599158344925" />
-    <state width="1324" height="236" key="GridCell.Tab.0.bottom" timestamp="1599246463756">
+    <state width="1324" height="115" key="GridCell.Tab.0.bottom" timestamp="1599247198127">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599246463756" />
-    <state width="1324" height="236" key="GridCell.Tab.0.center" timestamp="1599246463754">
+    <state width="1324" height="115" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599247198127" />
+    <state width="1324" height="115" key="GridCell.Tab.0.center" timestamp="1599247198126">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599246463754" />
-    <state width="1324" height="236" key="GridCell.Tab.0.left" timestamp="1599246463753">
+    <state width="1324" height="115" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599247198126" />
+    <state width="1324" height="115" key="GridCell.Tab.0.left" timestamp="1599247198126">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599246463753" />
-    <state width="1324" height="236" key="GridCell.Tab.0.right" timestamp="1599246463755">
+    <state width="1324" height="115" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599247198126" />
+    <state width="1324" height="115" key="GridCell.Tab.0.right" timestamp="1599247198127">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599246463755" />
+    <state width="1324" height="115" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599247198127" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
