@@ -11,40 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/0b/9e/0ad4f8da965cdd3b460bc44c12bb83246c0356578a0128de8eda834ab15a2ab2bbcc399691d0f0f5f1d9f144f8c96b344419514a38d34c1d2196bfff6fb8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/0e/27/866c2ac07102aea28f224f60f6c177824bcefcd494ec75b7fe7f2b0f7e740a0a3873e22de8d0d3a738c5b93fce59066bcc70980ab6190897bb0f5a8c91d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/1c/62/62e7b782a3b24d3ad112e5bb8e04cfa8f68fbc40aa3bf959e7be08223d85b0d9402a4ed3527eb1f5043b4397631dacda4e43766b5322f3d524f707e352a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/2a/90/1bca906816c8f46d1803a43e6296f166b815c11db5c372756a0b1eaf4f13a5f7c58100ee1bfac807d272ee24c3643380bca6215367e5bf97c96dcd30b184" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/6d/41/742f49ef5caa1724af26aa91edf2a54de6d71681a7ee4b5f5ae353cac7255119a2c496d127aada767a7316edb715ed85860bb96ac4673f56def5e55e5efd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/84/58/8f0d363d029da742bea4b850a6fce244023a4f0a4a1ff0db29b44d6d04467d2b447498611399e89bf29813c123850681e1f26c84c11d544863f66e5397e7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/96/5a/a5f994bc005ea05309e5ff973bc78236d9131dd4cf82b39fe437671740eb3e245766e603151734bd3487bbcf35aba16eada94a1d4ca03aa317566d6cf852" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c7/50/a8476155187cb24d1625b005f158786ae3a100f46fcb103400c0c9e5c2eb3f938f30a6b9eb3a8f4a9a35e3cc482e397ad65ac7d3cb82174ce09f1b23d6c6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c9/a8/e8b98e8c523943f5b6462087867348a0da48ff7871a3624ea3a3a576e9b9002ebfd685000ad1361f4c06bf5aec91c64510077de49279acc2c3e615a5736b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/cf/8a/635a9bd42c38bccec92180400da35395e18fdfbb5d0351b283eb640b7bc489d9ba49969a084d7738cb5ea440dc6b05c57156a4160973155213c26e1581fe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e2/a2/1a29e738daf4ef0256395a57cdd108f8cdb99e7b0caa9c322dbde2982f968bf570aa49b826e399fb2fb18dc47810e64269f5d5ab476ed1256f59d77cb61e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e4/86/f561e8058bb08f9281797c16783212d1dc313b000e32a64c306e1f4c956a889315c9ab8c5198f8ae7e046ae8d1ee32d7958fe25e1701a80d3038429e344f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e6/a3/92abea73bc84b03f5e3414fe56dd0341357b50ae107a63448a3b5d7e716fad24132cda01de9d039071d42835d07bd516b50cc830331e71d131c004ac961a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f6/e4/3628e2923f768ca20c1f577f4b6cdcd729df3580ce8ab7d90ba5eab0881632c035a3363e80991831deac051b3bfc202588c50f2e057ccb275cc37aec5ffb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/01/27/e0bcfe4b6d8b529ffda8b626e1a2bfa88afa92e9b15259636adc8850175f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/03/8e/3f9e70a0d8656957e735dcdd0391c05455b105e8af9be1cabdb2ec8172c7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/06/52/b35b242ed62fd80a2e10b5ebed0ee9d2ee330bd08aa9bb07c0b6bc0bea78" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/07/af/b79ae497fab9040cfe63d8aa4686b22f8aa5ca5d252fbf7400691a784bd4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/18/1c/70f7d5dbe3f1c26998276fdd274cd03f2fe51d3223e7769d352406688157" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/2b/c0/bcb95bd4755e78a5fdb78414f49a5d1740ba12bbf32205579f3c2ac9e3f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/48/b9/7314f65ffb9f9fd1eb37d44bf1fa80c366ee95f1d9765dfad6a4c44618a9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/4d/e9/067ae99f673532cf7a974851ecf733c79fcab59685929daace1eabcbfe38" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/76/20/73853937824e8a871abaf44d45ac53667c504638783b8780b33fb5baf74b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7d/ff/3b88afc83b10bfc6ef7e1e7c09f5592506a791bf4ff6c14c8f9642ae0557" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ad/87/b86430bd3e47eacda4b5310f9e264360eef11443141ac8330175925a06b1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b8/53/429ad2eb64def623c13ba8f083e204d177efcc9df4292048ede57de82720" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/d8/b9/206ac565b896a3a171e4f606130cf7f4cd839619685f2e4395aaa604ab80" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/e2/ea/7688b19420f13daa15b6c48c12a4d548b766a5062ebd023cb33b9d887d64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Hamlet-2048x1526-1024x768.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/slide-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/slide-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/slide-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/slide-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/slide-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/slide-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/slide-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/slide-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pugs/beauty.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/beauty.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599230308556</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="исправлен скролл">
+      <created>1599232148584</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599232148584</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +215,8 @@
     <MESSAGE value="дорабока кнопок (шрифты)" />
     <MESSAGE value="первый вариант скролла" />
     <MESSAGE value="готов скролл" />
-    <option name="LAST_COMMIT_MESSAGE" value="готов скролл" />
+    <MESSAGE value="исправлен скролл" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправлен скролл" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
