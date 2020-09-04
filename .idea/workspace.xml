@@ -11,14 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/src/images/slide-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/slide-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/slide-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/slide-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/pugs/slider.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SamsonFront.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SamsonFront.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pugs/slider.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/slider.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599146085420</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="первый вариант скролла">
+      <created>1599162200214</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599162200214</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +203,8 @@
     <MESSAGE value="готовы кнопки (без картинок)" />
     <MESSAGE value="кнопки готовы полностью" />
     <MESSAGE value="дорабока кнопок (шрифты)" />
-    <option name="LAST_COMMIT_MESSAGE" value="дорабока кнопок (шрифты)" />
+    <MESSAGE value="первый вариант скролла" />
+    <option name="LAST_COMMIT_MESSAGE" value="первый вариант скролла" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
@@ -208,22 +215,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599158344925" />
-    <state width="1324" height="151" key="GridCell.Tab.0.bottom" timestamp="1599157650714">
+    <state width="1324" height="236" key="GridCell.Tab.0.bottom" timestamp="1599225182450">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="151" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599157650714" />
-    <state width="1324" height="151" key="GridCell.Tab.0.center" timestamp="1599157650712">
+    <state width="1324" height="236" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599225182450" />
+    <state width="1324" height="236" key="GridCell.Tab.0.center" timestamp="1599225182447">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="151" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599157650712" />
-    <state width="1324" height="151" key="GridCell.Tab.0.left" timestamp="1599157650711">
+    <state width="1324" height="236" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599225182447" />
+    <state width="1324" height="236" key="GridCell.Tab.0.left" timestamp="1599225182446">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="151" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599157650711" />
-    <state width="1324" height="151" key="GridCell.Tab.0.right" timestamp="1599157650712">
+    <state width="1324" height="236" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599225182446" />
+    <state width="1324" height="236" key="GridCell.Tab.0.right" timestamp="1599225182449">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="151" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599157650712" />
+    <state width="1324" height="236" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599225182449" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>

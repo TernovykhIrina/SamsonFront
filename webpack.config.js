@@ -103,5 +103,7 @@ module.exports = {
             chunks: [`${page.split(".")[0]}`]
         })),
         new CleanWebpackPlugin(),
+
+
     ]
 };
