@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/src/pages/components/index/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/pugs/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/pages/pugs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.build">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -93,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599245701697</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Добавлена главная страница">
+      <created>1599246525813</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599246525813</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +226,8 @@
     <MESSAGE value="готов скролл" />
     <MESSAGE value="исправлен скролл" />
     <MESSAGE value="красота готова" />
-    <option name="LAST_COMMIT_MESSAGE" value="красота готова" />
+    <MESSAGE value="Добавлена главная страница" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена главная страница" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
@@ -234,22 +238,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599158344925" />
-    <state width="1324" height="236" key="GridCell.Tab.0.bottom" timestamp="1599225182450">
+    <state width="1324" height="236" key="GridCell.Tab.0.bottom" timestamp="1599246463756">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599225182450" />
-    <state width="1324" height="236" key="GridCell.Tab.0.center" timestamp="1599225182447">
+    <state width="1324" height="236" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599246463756" />
+    <state width="1324" height="236" key="GridCell.Tab.0.center" timestamp="1599246463754">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599225182447" />
-    <state width="1324" height="236" key="GridCell.Tab.0.left" timestamp="1599225182446">
+    <state width="1324" height="236" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599246463754" />
+    <state width="1324" height="236" key="GridCell.Tab.0.left" timestamp="1599246463753">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599225182446" />
-    <state width="1324" height="236" key="GridCell.Tab.0.right" timestamp="1599225182449">
+    <state width="1324" height="236" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599246463753" />
+    <state width="1324" height="236" key="GridCell.Tab.0.right" timestamp="1599246463755">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="236" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599225182449" />
+    <state width="1324" height="236" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599246463755" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
