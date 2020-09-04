@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/src/images/Hamlet-2048x1526-1024x768.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/components/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pugs/index.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/beauty/beauty.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/pugs/beauty.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/beauty.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/pages/pugs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.start">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -94,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599232148584</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="красота готова">
+      <created>1599245701697</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599245701697</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +222,8 @@
     <MESSAGE value="первый вариант скролла" />
     <MESSAGE value="готов скролл" />
     <MESSAGE value="исправлен скролл" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправлен скролл" />
+    <MESSAGE value="красота готова" />
+    <option name="LAST_COMMIT_MESSAGE" value="красота готова" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
