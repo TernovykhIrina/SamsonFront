@@ -11,47 +11,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="added docs">
-      <change afterPath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/1b0809d519837cb7aad36a73433f655c.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/del.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/rectangle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beauty.3943489c79e0400e026e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beauty.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/beauty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buttons.3943489c79e0400e026e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/form.3943489c79e0400e026e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider.3943489c79e0400e026e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/text.3943489c79e0400e026e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/index/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/index/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/slider/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pugs/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pugs/slider.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/slider.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599247220676</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added docs">
+      <created>1599247460312</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599247460312</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +264,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="added dist" />
-    <MESSAGE value="added docs" />
     <MESSAGE value="текст готов" />
     <MESSAGE value="готовы кнопки (без картинок)" />
     <MESSAGE value="кнопки готовы полностью" />
@@ -276,7 +273,8 @@
     <MESSAGE value="исправлен скролл" />
     <MESSAGE value="красота готова" />
     <MESSAGE value="Добавлена главная страница" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена главная страница" />
+    <MESSAGE value="added docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added docs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
@@ -287,22 +285,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599158344925" />
-    <state width="1324" height="115" key="GridCell.Tab.0.bottom" timestamp="1599247198127">
+    <state width="1324" height="115" key="GridCell.Tab.0.bottom" timestamp="1599251613830">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="115" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599247198127" />
-    <state width="1324" height="115" key="GridCell.Tab.0.center" timestamp="1599247198126">
+    <state width="1324" height="115" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599251613830" />
+    <state width="1324" height="115" key="GridCell.Tab.0.center" timestamp="1599251613829">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="115" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599247198126" />
-    <state width="1324" height="115" key="GridCell.Tab.0.left" timestamp="1599247198126">
+    <state width="1324" height="115" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599251613829" />
+    <state width="1324" height="115" key="GridCell.Tab.0.left" timestamp="1599251613829">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="115" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599247198126" />
-    <state width="1324" height="115" key="GridCell.Tab.0.right" timestamp="1599247198127">
+    <state width="1324" height="115" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599251613829" />
+    <state width="1324" height="115" key="GridCell.Tab.0.right" timestamp="1599251613829">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="115" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599247198127" />
+    <state width="1324" height="115" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599251613829" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
@@ -355,6 +353,10 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="431" y="77" width="496" height="588" key="RollbackChangesDialog/0.0.1366.742@0.0.1366.742" timestamp="1599065435491" />
+    <state x="278" y="107" width="802" height="529" key="Vcs.Push.Dialog.v2" timestamp="1599247487446">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="278" y="107" width="802" height="529" key="Vcs.Push.Dialog.v2/0.0.1366.742@0.0.1366.742" timestamp="1599247487446" />
     <state x="379" y="127" width="608" height="488" key="find.popup" timestamp="1599157226441">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
