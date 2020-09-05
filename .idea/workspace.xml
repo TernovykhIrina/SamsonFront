@@ -10,63 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="внесены мелкие правки">
-      <change afterPath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/1b0809d519837cb7aad36a73433f655c.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/beauty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/del.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/rectangle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/slide-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/schema.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/schema.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/schema.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/schema.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/schema.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.f06411a5e710e3b5636e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.f06411a5e710e3b5636e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.f06411a5e710e3b5636e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.f06411a5e710e3b5636e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c1/63/04b8d0811ace4ef2eb8dd38d8dac63eedd759c347835c61f0d835aa0fe23da963a99fd478124493251d0b9aaaf0b0491dcdca9073a31c44437d8f37a4b88" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/cb/8b/093cb67fcd6cea992f6257e4aa60d45741a2649175b0d63b3a8f364b6da049c4a4dc4e431211e3251f3ae4827eb4e49ebdd2ad73494d9239e35e8e31268d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/9a/1a/60ee64401f2ac4f2a1d4a826ce5dd3b2397b16000aff2fed0b178512a766" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/c2/03/4cd9a521574ff8cb2d8359e205f50d6267daa81d79f93007a82b36cabfa6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="dist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -302,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599324641556</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="dist">
+      <created>1599325315867</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1599325315867</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +289,8 @@
     <MESSAGE value="схема готова" />
     <MESSAGE value="добавлен пункт основной страницы" />
     <MESSAGE value="внесены мелкие правки" />
-    <option name="LAST_COMMIT_MESSAGE" value="внесены мелкие правки" />
+    <MESSAGE value="dist" />
+    <option name="LAST_COMMIT_MESSAGE" value="dist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
@@ -353,22 +305,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599324879874" />
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1599324653684">
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1599326017113">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599324653684" />
-    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1599324653683">
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599326017113" />
+    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1599326017112">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599324653683" />
-    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1599324653682">
+    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599326017112" />
+    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1599326017112">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599324653682" />
-    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1599324653683">
+    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599326017112" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1599326017112">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599324653683" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599326017112" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
