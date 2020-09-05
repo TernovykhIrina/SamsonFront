@@ -10,7 +10,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="dist" />
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="исправила стили кнопок">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1b0809d519837cb7aad36a73433f655c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beauty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/rectangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/slide-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/slide-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/slide-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/slide-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/schema.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/text.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +78,7 @@
       <recent name="$PROJECT_DIR$/src/pages/pugs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.start">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -90,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599325315867</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="исправила стили кнопок">
+      <created>1599326376791</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1599326376791</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +321,8 @@
     <MESSAGE value="добавлен пункт основной страницы" />
     <MESSAGE value="внесены мелкие правки" />
     <MESSAGE value="dist" />
-    <option name="LAST_COMMIT_MESSAGE" value="dist" />
+    <MESSAGE value="исправила стили кнопок" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправила стили кнопок" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
@@ -305,22 +337,22 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599324879874" />
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1599326017113">
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1599326746109">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599326017113" />
-    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1599326017112">
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599326746109" />
+    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1599326746108">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599326017112" />
-    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1599326017112">
+    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599326746108" />
+    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1599326746108">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599326017112" />
-    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1599326017112">
+    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599326746108" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1599326746109">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599326017112" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599326746109" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
