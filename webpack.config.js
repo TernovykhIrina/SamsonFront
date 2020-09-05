@@ -23,6 +23,7 @@ module.exports = {
         'beauty': './src/pages/components/beauty/beauty.js',
         'slider': './src/pages/components/slider/slider.js',
         'index': './src/pages/components/index/index.js',
+        'schema': './src/pages/components/schema/schema.js',
     },
     output: {
         path: path.resolve(__dirname, 'docs'),
