@@ -10,57 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="на главной странице добавлены ссылки">
-      <change afterPath="$PROJECT_DIR$/src/pages/components/schema/schema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/components/schema/schema.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/pugs/schema.pug" afterDir="false" />
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="частично реализована схема">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/1b0809d519837cb7aad36a73433f655c.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/beauty.4a4d1fa5540434c3e072.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/beauty.4a4d1fa5540434c3e072.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/beauty.4a4d1fa5540434c3e072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/beauty.4a4d1fa5540434c3e072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/beauty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/buttons.4a4d1fa5540434c3e072.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/buttons.4a4d1fa5540434c3e072.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/buttons.4a4d1fa5540434c3e072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/buttons.4a4d1fa5540434c3e072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.4a4d1fa5540434c3e072.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.4a4d1fa5540434c3e072.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.4a4d1fa5540434c3e072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.4a4d1fa5540434c3e072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/del.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/print.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/rectangle.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.4a4d1fa5540434c3e072.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.4a4d1fa5540434c3e072.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.4a4d1fa5540434c3e072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.4a4d1fa5540434c3e072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider.4a4d1fa5540434c3e072.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider.4a4d1fa5540434c3e072.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider.4a4d1fa5540434c3e072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider.4a4d1fa5540434c3e072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/text.4a4d1fa5540434c3e072.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/text.4a4d1fa5540434c3e072.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/text.4a4d1fa5540434c3e072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/text.4a4d1fa5540434c3e072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/schema/schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/schema/schema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/schema/schema.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599252578996</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="частично реализована схема">
+      <created>1599309366075</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1599309366075</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +261,8 @@
     <MESSAGE value="Добавлена главная страница" />
     <MESSAGE value="added docs" />
     <MESSAGE value="на главной странице добавлены ссылки" />
-    <option name="LAST_COMMIT_MESSAGE" value="на главной странице добавлены ссылки" />
+    <MESSAGE value="частично реализована схема" />
+    <option name="LAST_COMMIT_MESSAGE" value="частично реализована схема" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
