@@ -3,4 +3,4 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acron
 .container{overflow:hidden}.slide-box{display:flex;width:1200px;height:444px;overflow:scroll}.card{display:flex;flex-flow:column;margin:2px 0 15px 0;border:#f0f0f0 1px solid;border-right:none}.card-1{width:250px;height:250px;background:url(images/slide-1.png) 0 -3px no-repeat}.card-2{width:250px;height:250px;background:url(images/slide-2.png) 0 -3px no-repeat}.card-3{width:250px;height:250px;background:url(images/slide-3.png) 0 -3px no-repeat}.card-4{width:250px;height:250px;background:url(images/slide-4.png) 0 -3px no-repeat}.description{margin-top:35px;padding-left:25px;padding-right:10px;font-family:Montserrat-Regular;font-size:14px;line-height:20px}::-webkit-scrollbar-track:horizontal{background-color:#ecedee}::-webkit-scrollbar-thumb:horizontal{-webkit-border-radius:10px;border-radius:10px;background-color:#83141f}::-webkit-scrollbar-thumb:vertical{display:none}::-webkit-scrollbar-track-piece{border-radius:10px}::-webkit-scrollbar{width:10px}
 
 
-/*# sourceMappingURL=slider.ba658fa27d3df8d32405.css.map*/
+/*# sourceMappingURL=slider.cc12a22e17c59f2852bb.css.map*/

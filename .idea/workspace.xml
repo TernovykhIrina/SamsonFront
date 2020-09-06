@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="добавлена черная страница">
-      <change afterPath="$PROJECT_DIR$/docs/blackpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/index/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/index/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/pugs/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/index.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599326934733</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="добавлена черная страница">
+      <created>1599394656965</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1599394656965</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
