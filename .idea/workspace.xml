@@ -10,30 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="исправила стили кнопок">
+    <list default="true" id="5f1d47df-9177-4397-87a9-ee17fd4a61d7" name="Default Changelist" comment="добавлена черная страница">
+      <change afterPath="$PROJECT_DIR$/docs/blackpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/079ca05d3ded9bc107ab8a8da013be22.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/1b0809d519837cb7aad36a73433f655c.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/3cd786652b8a2e9d41f210cb1a527ff6.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/beauty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/checkboxMarker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/del.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/print.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/rectangle.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/slide-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/schema.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/index/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/index/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pugs/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pugs/index.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +49,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/webtest/black-page/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/fonts" />
       <recent name="$PROJECT_DIR$/src/pages/pugs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.build">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -114,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599326376791</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="исправила стили кнопок">
+      <created>1599326934733</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1599326934733</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +311,8 @@
     <MESSAGE value="внесены мелкие правки" />
     <MESSAGE value="dist" />
     <MESSAGE value="исправила стили кнопок" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправила стили кнопок" />
+    <MESSAGE value="добавлена черная страница" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлена черная страница" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="121" width="526" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599139656711">
@@ -333,26 +323,26 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="337" y="153" width="683" height="436" key="EditFileWatcherDialog/0.0.1366.742@0.0.1366.742" timestamp="1599254681537" />
-    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl" timestamp="1599324879874">
+    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl" timestamp="1599333898875">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599324879874" />
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1599326746109">
+    <state x="466" y="129" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1599333898875" />
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1599326914445">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599326746109" />
-    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1599326746108">
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1599326914445" />
+    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1599326914444">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599326746108" />
-    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1599326746108">
+    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1599326914444" />
+    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1599326914443">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599326746108" />
-    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1599326746109">
+    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1599326914443" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1599326914445">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599326746109" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1599326914445" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1599157145196">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
@@ -413,5 +403,9 @@
       <screen x="0" y="0" width="1366" height="742" />
     </state>
     <state x="379" y="127" width="608" height="488" key="find.popup/0.0.1366.742@0.0.1366.742" timestamp="1599157226441" />
+    <state x="346" y="63" width="672" height="678" key="search.everywhere.popup" timestamp="1599328630482">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="346" y="63" width="672" height="678" key="search.everywhere.popup/0.0.1366.742@0.0.1366.742" timestamp="1599328630482" />
   </component>
 </project>
